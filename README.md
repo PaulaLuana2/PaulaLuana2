@@ -7,6 +7,8 @@
   Sou completamente apaixonada pela área de desenvolvimento front-end e Ciência de Dados. Aqui no meu GitHub você
   pode encontrar exemplos de práticas sobre esses temas e muitos mais. Cada projeto contém sua explicação no arquivo
   `README.md`, mas em caso de dúvidas estou a disposição.
+  Tenho uma conta antiga do GitHub que acabei perdendo os dados de acesso, lá também tem projetos muito interessantes.
+  Fica disponível para consulta. <https://github.com/PaulaLuana?tab=repositories>
 </p>
 
 
