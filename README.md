@@ -3,8 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Prazer, meu nome é Luana, sou recém formada em Ciência da Computação pela Universidade Federal do Ceará (UFC).
-  Sou completamente apaixonada pela área de desenvolvimento front-end. Aqui no meu GitHub você
+ Apaixonada pela área de desenvolvimento. Aqui no meu GitHub você
   pode encontrar exemplos de práticas sobre esses temas e muitos mais. Cada projeto contém sua explicação no arquivo
   `README.md`, mas em caso de dúvidas estou a disposição.
   Tenho uma conta antiga do GitHub que acabei perdendo os dados de acesso, lá também tem projetos muito interessantes.
