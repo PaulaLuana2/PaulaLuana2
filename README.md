@@ -4,7 +4,7 @@
 
 <p align="left"> 
  Apaixonada pela área de desenvolvimento. Aqui no meu GitHub você
-  pode encontrar exemplos de práticas, onde aada projeto contém sua explicação no arquivo
+  pode encontrar exemplos de práticas, onde cada projeto contém sua explicação no arquivo
   `README.md`, mas em caso de dúvidas estou a disposição.
   Tenho uma conta antiga do GitHub que acabei perdendo os dados de acesso, lá também tem projetos muito interessantes.
   Fica disponível para consulta. https://github.com/PaulaLuana?tab=repositories
