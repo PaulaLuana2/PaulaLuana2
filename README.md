@@ -13,7 +13,7 @@
 
 <div>
 <a href="https://github.com/PaulaLuana2">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaLuana2&layout=compact&langs_count=7"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaLuana2&layout=compact&langs_count=7](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)]"/>
 </a>
 </div>
 
